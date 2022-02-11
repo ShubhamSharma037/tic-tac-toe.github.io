@@ -1,0 +1,9 @@
+.showTurn{
+    height: auto;
+    width : 800px;
+    margin : 7% auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* border : 1px solid #000; */
+}
